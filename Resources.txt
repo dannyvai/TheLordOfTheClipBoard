@@ -1,0 +1,11 @@
+MSDN Reference : 
+http://msdn.microsoft.com/en-us/library/windows/desktop/ms648709(v=vs.85).aspx
+
+Windows clipboard in python using pywin32 :
+http://stackoverflow.com/questions/101128/how-do-i-read-text-from-the-windows-clipboard-from-python
+
+Windows changes in clipboard python :
+https://mail.python.org/pipermail/python-list/2000-October/050194.html
+
+Linux KDe/GNOME clipboard :
+http://stackoverflow.com/questions/21336114/get-notified-on-clipboard-change-via-d-bus
